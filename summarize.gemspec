@@ -1,5 +1,5 @@
 $:.unshift(File.join(File.dirname(__FILE__), "lib"))
-require "summarize"
+require File.expand_path("../lib/summarize", __FILE__)
 
 Gem::Specification.new do |s|
   s.name             = %q{summarize}
