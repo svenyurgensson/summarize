@@ -1,4 +1,4 @@
-require 'summarize/summarize'
+require 'summarize'
 
 class Hash #:nodoc:
   def symbolize_keys

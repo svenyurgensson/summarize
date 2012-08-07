@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.homepage         = %q{http://github.com/svenyurgensson/summarize}
   s.version          = Summarize::VERSION
   s.authors          = ["Sean Soper", "Yury Batenko"]
-  s.email            = %q{sean.soper@gmail.com}
+  s.email            = %q{jurbat@gmail.com}
 
   s.rubygems_version  = %q{1.3.7}
   s.date              = %q{2012-04-24}
